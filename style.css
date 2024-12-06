@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(0, 162, 255);
+    color: darkturquoise;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#detail{
+ color: darkblue;
+ font-family: verdana;
+ font-family: 20px;
+}
+.para{
+color: aqua;
+font-size: 14pt;
+font-style: italic;
+}
